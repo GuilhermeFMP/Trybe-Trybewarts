@@ -4,4 +4,31 @@ header {
 }
 .trybewarts-login {
   display: flex;
+<<<<<<< HEAD
+=======
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+#evaluation-form div {
+  display: flex;
+  flex-flow: wrap row;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  width: 500px;
+}
+
+#input-name , #input-lastname , #input-email , #house {
+  width: 40%;
+}
+
+h1 {
+  
+>>>>>>> 6440783dbd7af9bc5961dfd5a7b4f5da1f02f41b
 }
