@@ -10,7 +10,6 @@ main {
 
 .trybewarts-login {
   display: flex;
-  
 }
 
 #evaluation-form {
@@ -21,7 +20,11 @@ main {
 
 #evaluation-form div {
   display: flex;
-  flex-flow: wrap row;
+  flex-wrap: wrap;
+}
+
+#evaluation-form div input , #evaluation-form div select {
+  margin: 10px;
 }
 
 #trybewarts-forms-logo {
@@ -35,7 +38,6 @@ main {
 
 #radio-container {
   display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
   width: 50px;
 }
