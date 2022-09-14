@@ -2,10 +2,9 @@ header {
   display: flex;
   background-color: rgb(50, 167, 145);
 }
+
 .trybewarts-login {
   display: flex;
-<<<<<<< HEAD
-=======
 }
 
 #evaluation-form {
@@ -26,9 +25,4 @@ header {
 
 #input-name , #input-lastname , #input-email , #house {
   width: 40%;
-}
-
-h1 {
-  
->>>>>>> 6440783dbd7af9bc5961dfd5a7b4f5da1f02f41b
 }
