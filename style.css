@@ -20,7 +20,11 @@ main {
 
 #evaluation-form div {
   display: flex;
-  flex-flow: wrap row;
+  flex-wrap: wrap;
+}
+
+#evaluation-form div input , #evaluation-form div select {
+  margin: 10px;
 }
 
 #trybewarts-forms-logo {
