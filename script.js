@@ -24,3 +24,10 @@ function acessed() {
 inputEmail.addEventListener('change', campoEmail);
 inputSenha.addEventListener('change', campoSenha);
 btn.addEventListener('click', acessed);
+
+const button = document.getElementById('submit-btn');
+const input = document.getElementById('agreement');
+
+input.addEventListener('change', () => {
+  button.style.display = 'flex';
+});

@@ -41,3 +41,7 @@ main {
   flex-flow: column wrap;
   width: 50px;
 }
+
+#submit-btn {
+  display: none;
+}
