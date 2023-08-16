@@ -6,7 +6,7 @@ Quarto projeto de Fundamentos feito em dupla fornecido pela instituição Trybe,
 
 ## Aprendizados
 
-Aprendir a utilizar Forms, bibliotecas JS e Flexbox.
+Aprendi a utilizar Forms, bibliotecas JS e Flexbox.
 
 
 ## Stack utilizada
